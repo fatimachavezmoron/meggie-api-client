@@ -1,0 +1,165 @@
+{
+    "company": {
+      "data": "Quicken Loans",
+      "label": "company"
+    },
+    "system": {
+      "data": "Spark Design System",
+      "deprecated": "no",
+      "url": "https://sparkdesignsystem.com",
+      "label": "system"
+    },
+    "repository": {
+      "data": "GitHub",
+      "url": "https://github.com/sparkdesignsystem/spark-design-system",
+      "label": "repository"
+    },
+    "codeDepth": {
+      "data": "HTML/CSS/JS",
+      "label": "code depth"
+    },
+    "components": {
+      "data": "yes",
+      "label": "components"
+    },
+    "js": {
+      "data": [
+        "React",
+        "Angular",
+        "Vanilla"
+      ],
+      "label": "JS library/framework"
+    },
+    "ts": {
+      "data": "yes",
+      "label": "typescript"
+    },
+    "webComponents": {
+      "data": "no",
+      "label": "web components"
+    },
+    "tests": {
+      "data": [
+        "Jest"
+      ],
+      "label": "tests"
+    },
+    "linter": {
+      "data": [
+        "Prettier",
+        "ESlint",
+        "Stylelint"
+      ],
+      "label": "linter"
+    },
+    "css": {
+      "data": [
+        "Sass"
+      ],
+      "label": "CSS"
+    },
+    "cssInjs": {
+      "data": "no",
+      "label": "CSS in JS"
+    },
+    "designTokens": {
+      "data": "yes",
+      "label": "design tokens"
+    },
+    "bundleManager": {
+      "data": [
+        "Webpack"
+      ],
+      "label": "bundle manager"
+    },
+    "uiKit": {
+      "data": "yes",
+      "url": "https://sparkdesignsystem.com/using-spark",
+      "label": "UI kit"
+    },
+    "brandGuidelines": {
+      "data": "no",
+      "url": "",
+      "label": "brand guidelines"
+    },
+    "colorPalette": {
+      "data": "yes",
+      "url": "https://sparkdesignsystem.com/using-spark/foundations/color-codes",
+      "label": "color palette"
+    },
+    "colorNaming": {
+      "data": "natural (e.g. Red Medium)",
+      "label": "color naming"
+    },
+    "contrastAnalysis": {
+      "data": "yes",
+      "url": "https://sparkdesignsystem.com/using-spark/foundations/color-accessibility",
+      "label": "contrast analysis"
+    },
+    "typography": {
+      "data": "yes",
+      "url": "https://sparkdesignsystem.com/using-spark/foundations/typography",
+      "label": "typography"
+    },
+    "icons": {
+      "data": "yes",
+      "url": "https://sparkdesignsystem.com/using-spark/components/icon",
+      "label": "icons"
+    },
+    "space/Grid": {
+      "data": "yes",
+      "url": "https://sparkdesignsystem.com/using-spark/foundations/space",
+      "label": "space / grid"
+    },
+    "illustrations": {
+      "data": "no",
+      "url": "",
+      "label": "illustration"
+    },
+    "dataVisualization": {
+      "data": "yes",
+      "url": "https://sparkdesignsystem.com/using-spark/foundations/color-usage#charts-and-graphs",
+      "label": "data visualization"
+    },
+    "animation": {
+      "data": "no",
+      "url": "",
+      "label": "animation"
+    },
+    "voiceTone": {
+      "data": "no",
+      "url": "",
+      "label": "voice & tone"
+    },
+    "accessibilityGuidelines": {
+      "data": "yes",
+      "url": "https://sparkdesignsystem.com/principles/accessibility-guidelines",
+      "label": "accessibility guidelines"
+    },
+    "designPrinciples": {
+      "data": "yes",
+      "url": "https://sparkdesignsystem.com/principles/accessibility-guidelines",
+      "label": "design principles"
+    },
+    "websiteDocumentation": {
+      "data": "yes",
+      "url": "https://sparkdesignsystem.com",
+      "label": "documentation website"
+    },
+    "codeDocumentation": {
+      "data": "HTML",
+      "url": "https://sparkdesignsystem.com/using-spark",
+      "label": "code documentation"
+    },
+    "storybook": {
+      "data": "yes",
+      "url": "https://sparkdesignsystem.com/using-spark",
+      "label": "storybook"
+    },
+    "distribution": {
+      "data": [
+        "npm"
+      ],
+      "label": "distribution"
+    }
+  }

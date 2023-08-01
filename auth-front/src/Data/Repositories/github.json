@@ -1,0 +1,149 @@
+{
+    "company": {
+      "data": "github",
+      "label": "company"
+    },
+    "system": {
+      "data": "primer",
+      "deprecated": "no",
+      "label": "system",
+      "url": "https://primer.style/"
+    },
+    "repository": {
+      "data": "GitHub",
+      "label": "repository",
+      "url": "https://github.com/primer/css"
+    },
+    "codeDepth": {
+      "data": "HTML/CSS",
+      "label": "code depth"
+    },
+    "components": {
+      "data": "yes",
+      "label": "components"
+    },
+    "js": {
+      "data": "React",
+      "label": "JS library/framework"
+    },
+    "ts": {
+      "data": "no",
+      "label": "typescript"
+    },
+    "webComponents": {
+      "data": "no",
+      "label": "web components"
+    },
+    "tests": {
+      "data": "AVA",
+      "label": "tests"
+    },
+    "linter": {
+      "data": "StyleLint",
+      "label": "linter"
+    },
+    "css": {
+      "data": "Sass",
+      "label": "CSS"
+    },
+    "cssInjs": {
+      "data": "no",
+      "label": "CSS in JS"
+    },
+    "designTokens": {
+      "data": "Scss",
+      "label": "design tokens",
+      "url": "https://github.com/primer/css/tree/master/src/support"
+    },
+    "bundleManager": {
+      "data": "PostCSS",
+      "label": "bundle manager"
+    },
+    "uiKit": {
+      "data": "no",
+      "label": "UI kit"
+    },
+    "brandGuidelines": {
+      "data": "no",
+      "label": "brand guidelines",
+      "url": ""
+    },
+    "colorPalette": {
+      "data": "yes",
+      "label": "color palette",
+      "url": "https://github.com/primer/css/blob/master/src/support/variables/color-system.scss"
+    },
+    "colorNaming": {
+      "data": "natural (e.g. gray-300)",
+      "label": "color naming"
+    },
+    "contrastAnalysis": {
+      "data": "no",
+      "label": "contrast analysis",
+      "url": ""
+    },
+    "typography": {
+      "data": "yes",
+      "label": "typography",
+      "url": "https://github.com/primer/css/blob/master/src/support/variables/typography.scss"
+    },
+    "icons": {
+      "data": "Octicons (SVG)",
+      "label": "icons",
+      "url": "https://github.com/primer/octicons"
+    },
+    "space/Grid": {
+      "data": "yes",
+      "label": "space / grid",
+      "url": "https://github.com/primer/css/blob/master/src/support/variables/layout.scss"
+    },
+    "illustrations": {
+      "data": "no",
+      "label": "illustration",
+      "url": ""
+    },
+    "dataVisualization": {
+      "data": "no",
+      "label": "data visualization",
+      "url": ""
+    },
+    "animation": {
+      "data": "no",
+      "label": "animation",
+      "url": ""
+    },
+    "voiceTone": {
+      "data": "no",
+      "label": "voice & tone",
+      "url": ""
+    },
+    "accessibilityGuidelines": {
+      "data": "no",
+      "label": "accessibility guidelines",
+      "url": ""
+    },
+    "designPrinciples": {
+      "data": "no",
+      "label": "design principles",
+      "url": ""
+    },
+    "websiteDocumentation": {
+      "data": "no",
+      "label": "documentation website",
+      "url": ""
+    },
+    "codeDocumentation": {
+      "data": "Markdown",
+      "label": "code documentation",
+      "url": "https://github.com/primer/css/tree/master/src/buttons"
+    },
+    "storybook": {
+      "data": "no",
+      "label": "storybook"
+    },
+    "distribution": {
+      "data": "npm",
+      "label": "distribution",
+      "url": "https://www.npmjs.com/package/@primer/css"
+    }
+  }
