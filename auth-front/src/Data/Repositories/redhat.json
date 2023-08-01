@@ -1,0 +1,169 @@
+{
+    "company": {
+      "data": "Red Hat",
+      "label": "company"
+    },
+    "system": {
+      "data": "Patternfly Design System",
+      "deprecated": "no",
+      "label": "system",
+      "url": "https://www.patternfly.org/"
+    },
+    "repository": {
+      "data": "GitHub",
+      "label": "repository",
+      "url": "https://github.com/patternfly"
+    },
+    "codeDepth": {
+      "data": "HTML/CSS/JS/TS",
+      "label": "code depth"
+    },
+    "components": {
+      "data": "yes",
+      "label": "components"
+    },
+    "js": {
+      "data": "Patternfly",
+      "label": "JS library/framework",
+      "url": "https://www.patternfly.org/v4/get-started/develop#htmlcss"
+    },
+    "ts": {
+      "data": "yes",
+      "label": "typescript"
+    },
+    "webComponents": {
+      "data": "yes",
+      "label": "web components"
+    },
+    "tests": {
+      "data": [
+        "BackstopJS",
+        "aXe",
+        "Jest",
+        "Web Component Tester"
+      ],
+      "label": "tests"
+    },
+    "linter": {
+      "data": [
+        "TSLint",
+        "ESLint"
+      ],
+      "label": "linter"
+    },
+    "css": {
+      "data": [
+        "Sass",
+        "PostCSS"
+      ],
+      "label": "CSS"
+    },
+    "cssInjs": {
+      "data": "no",
+      "label": "CSS in JS"
+    },
+    "designTokens": {
+      "data": "no",
+      "label": "design tokens"
+    },
+    "bundleManager": {
+      "data": [
+        "Webpack",
+        "Gulp"
+      ],
+      "label": "bundle manager"
+    },
+    "uiKit": {
+      "data": "Sketch",
+      "url": "https://github.com/patternfly/patternfly-design-kit",
+      "label": "UI kit"
+    },
+    "brandGuidelines": {
+      "data": "yes",
+      "label": "brand guidelines",
+      "url": "https://www.patternfly.org/v4/guidelines/colors/"
+    },
+    "colorPalette": {
+      "data": "yes",
+      "label": "color palette",
+      "url": "https://www.patternfly.org/v4/guidelines/colors#color-palette"
+    },
+    "colorNaming": {
+      "data": [
+        "abstract (e.g. default-color--200)",
+        "natural (e.g. green-100)",
+        "specific (e.g. BackgroundColor--dark-300)"
+      ],
+      "label": "color naming"
+    },
+    "contrastAnalysis": {
+      "data": "yes",
+      "label": "contrast analysis",
+      "url": "https://www.patternfly.org/v4/guidelines/colors#contrast-ratios"
+    },
+    "typography": {
+      "data": "yes",
+      "label": "typography",
+      "url": "https://www.patternfly.org/v4/guidelines/typography/"
+    },
+    "icons": {
+      "data": "Font Awesome Free",
+      "label": "icons",
+      "url": "https://www.patternfly.org/v4/guidelines/icons/"
+    },
+    "space/Grid": {
+      "data": "yes",
+      "label": "space / grid",
+      "url": "https://www.patternfly.org/v4/layouts/grid/"
+    },
+    "illustrations": {
+      "data": "no",
+      "label": "illustration",
+      "url": ""
+    },
+    "dataVisualization": {
+      "data": "yes",
+      "label": "data visualization",
+      "url": "https://www.patternfly.org/v3/pattern-library/data-visualization/area-chart/"
+    },
+    "animation": {
+      "data": "no",
+      "label": "animation",
+      "url": ""
+    },
+    "voiceTone": {
+      "data": "yes",
+      "label": "voice & tone",
+      "url": "https://www.patternfly.org/v4/components/empty-state/design-guidelines/#voice-and-tone"
+    },
+    "accessibilityGuidelines": {
+      "data": "yes",
+      "label": "accessibility guidelines",
+      "url": "https://www.patternfly.org/v4/accessibility/accessibility-fundamentals/"
+    },
+    "designPrinciples": {
+      "data": "yes",
+      "label": "design principles",
+      "url": "https://www.patternfly.org/v4/get-started/develop/#getting-started"
+    },
+    "websiteDocumentation": {
+      "data": "yes",
+      "label": "documentation website",
+      "url": "https://www.patternfly.org/v4/contribute/about/"
+    },
+    "codeDocumentation": {
+      "data": "yes",
+      "label": "code documentation",
+      "url": "https://www.patternfly.org/v4/get-started/develop/#react"
+    },
+    "storybook": {
+      "data": "no",
+      "label": "storybook",
+      "url": ""
+    },
+    "distribution": {
+      "data": "yes",
+      "label": "distribution",
+      "url": "https://www.patternfly.org/v4/"
+    }
+  }

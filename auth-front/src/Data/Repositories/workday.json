@@ -1,0 +1,155 @@
+{
+    "company": {
+      "data": "workday",
+      "label": "company"
+    },
+    "system": {
+      "data": "canvas",
+      "deprecated": "no",
+      "label": "system",
+      "url": "https://design.workday.com/"
+    },
+    "repository": {
+      "data": "GitHub",
+      "label": "repository",
+      "url": "https://github.com/Workday/canvas-kit"
+    },
+    "codeDepth": {
+      "data": "HTML/CSS/JS",
+      "label": "code depth"
+    },
+    "components": {
+      "data": "yes",
+      "label": "components"
+    },
+    "js": {
+      "data": "React",
+      "label": "JS library/framework"
+    },
+    "ts": {
+      "data": "yes",
+      "label": "typescript"
+    },
+    "webComponents": {
+      "data": "no",
+      "label": "web components"
+    },
+    "tests": {
+      "data": [
+        "Jest",
+        "Cypress",
+        "ChromaticQA"
+      ],
+      "label": "tests"
+    },
+    "linter": {
+      "data": "ESLint",
+      "label": "linter"
+    },
+    "css": {
+      "data": [
+        "Emotion",
+        "Sass"
+      ],
+      "label": "CSS"
+    },
+    "cssInjs": {
+      "data": "no data",
+      "label": "CSS in JS"
+    },
+    "designTokens": {
+      "data": "no data",
+      "label": "design tokens"
+    },
+    "bundleManager": {
+      "data": "no",
+      "label": "bundle manager"
+    },
+    "uiKit": {
+      "data": "no",
+      "label": "UI kit"
+    },
+    "brandGuidelines": {
+      "data": "yes",
+      "label": "brand guidelines",
+      "url": "https://design.workday.com/guidelines"
+    },
+    "colorPalette": {
+      "data": "yes",
+      "label": "color palette",
+      "url": "https://design.workday.com/resources/colors"
+    },
+    "colorNaming": {
+      "data": "Abstract (e.g. Peach)",
+      "label": "color naming"
+    },
+    "contrastAnalysis": {
+      "data": "no",
+      "label": "contrast analysis",
+      "url": ""
+    },
+    "typography": {
+      "data": "yes",
+      "label": "typography",
+      "url": "https://design.workday.com/guidelines/visual/type"
+    },
+    "icons": {
+      "data": "SVG",
+      "label": "icons",
+      "url": "https://design.workday.com/guidelines/visual/icons"
+    },
+    "space/Grid": {
+      "data": "yes",
+      "label": "space / grid",
+      "url": "https://design.workday.com/guidelines/visual/space"
+    },
+    "illustrations": {
+      "data": "no",
+      "label": "illustration",
+      "url": ""
+    },
+    "dataVisualization": {
+      "data": "no",
+      "label": "data visualization",
+      "url": ""
+    },
+    "animation": {
+      "data": "no",
+      "label": "animation",
+      "url": ""
+    },
+    "voiceTone": {
+      "data": "yes",
+      "label": "voice & tone",
+      "url": "https://design.workday.com/content/voice-and-tone/voice-and-tone"
+    },
+    "accessibilityGuidelines": {
+      "data": "yes",
+      "label": "accessibility guidelines",
+      "url": "https://design.workday.com/guidelines/accessibility/overview"
+    },
+    "designPrinciples": {
+      "data": "yes",
+      "label": "design principles",
+      "url": "https://design.workday.com/guidelines/design-principles/overview"
+    },
+    "websiteDocumentation": {
+      "data": "yes",
+      "label": "documentation website",
+      "url": "https://design.workday.com"
+    },
+    "codeDocumentation": {
+      "data": "yes",
+      "label": "code documentation",
+      "url": "https://design.workday.com/components"
+    },
+    "storybook": {
+      "data": "yes",
+      "label": "storybook",
+      "url": "https://workday.github.io/canvas-kit"
+    },
+    "distribution": {
+      "data": "no data",
+      "label": "distribution"
+    }
+  }
