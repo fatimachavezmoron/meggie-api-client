@@ -1,0 +1,158 @@
+{
+    "company": {
+      "data": "GitLab",
+      "label": "company"
+    },
+    "system": {
+      "data": "Pajamas Design System",
+      "deprecated": "no",
+      "label": "system",
+      "url": "https://design.gitlab.com"
+    },
+    "repository": {
+      "data": "GitLab",
+      "label": "repository",
+      "url": "https://gitlab.com/gitlab-org/gitlab-services/design.gitlab.com"
+    },
+    "codeDepth": {
+      "data": "HTML/CSS/JS",
+      "label": "code depth"
+    },
+    "components": {
+      "data": "yes",
+      "label": "components",
+      "url": "https://design.gitlab.com/components/overview"
+    },
+    "js": {
+      "data": "Vue",
+      "label": "JS library/framework"
+    },
+    "ts": {
+      "data": "no",
+      "label": "typescript"
+    },
+    "webComponents": {
+      "data": "no",
+      "label": "web components"
+    },
+    "tests": {
+      "data": [
+        "Jest",
+        "Visual regression"
+      ],
+      "label": "tests"
+    },
+    "linter": {
+      "data": [
+        "Prettier",
+        "ESlint",
+        "Stylelint"
+      ],
+      "label": "linter"
+    },
+    "css": {
+      "data": "Sass",
+      "label": "CSS"
+    },
+    "cssInjs": {
+      "data": "no",
+      "label": "CSS in JS"
+    },
+    "designTokens": {
+      "data": "Scss",
+      "label": "design tokens",
+      "url": "https://design.gitlab.com/product-foundations/colors"
+    },
+    "bundleManager": {
+      "data": "Webpack",
+      "label": "bundle manager"
+    },
+    "uiKit": {
+      "data": "Figma",
+      "label": "UI kit",
+      "url": "https://www.figma.com/community/file/781156790581391771"
+    },
+    "brandGuidelines": {
+      "data": "yes",
+      "label": "brand guidelines",
+      "url": "https://design.gitlab.com/brand/basics"
+    },
+    "colorPalette": {
+      "data": "yes",
+      "label": "color palette",
+      "url": "https://design.gitlab.com/product-foundations/colors"
+    },
+    "colorNaming": {
+      "data": "natural (e.g. green-500)",
+      "label": "color naming"
+    },
+    "contrastAnalysis": {
+      "data": "yes",
+      "label": "contrast analysis",
+      "url": "https://design.gitlab.com/product-foundations/colors#accessibility"
+    },
+    "typography": {
+      "data": "yes",
+      "label": "typography",
+      "url": "https://design.gitlab.com/product-foundations/type-fundamentals"
+    },
+    "icons": {
+      "data": "SVG",
+      "label": "icons",
+      "url": "https://gitlab-org.gitlab.io/gitlab-svgs/"
+    },
+    "space/Grid": {
+      "data": "yes",
+      "label": "space / grid",
+      "url": "https://design.gitlab.com/layout/spacing"
+    },
+    "illustrations": {
+      "data": "yes",
+      "label": "illustration",
+      "url": "https://design.gitlab.com/product-foundations/illustration"
+    },
+    "dataVisualization": {
+      "data": "yes",
+      "label": "data visualization",
+      "url": "https://design.gitlab.com/data-visualization/charts"
+    },
+    "animation": {
+      "data": "yes",
+      "label": "animation",
+      "url": "https://design.gitlab.com/product-foundations/motion"
+    },
+    "voiceTone": {
+      "data": "yes",
+      "label": "voice & tone",
+      "url": "https://design.gitlab.com/content/voice-tone"
+    },
+    "accessibilityGuidelines": {
+      "data": "yes",
+      "label": "accessibility guidelines",
+      "url": "https://design.gitlab.com/accessibility/a11y"
+    },
+    "designPrinciples": {
+      "data": "yes",
+      "label": "design principles",
+      "url": "https://design.gitlab.com/get-started/principles"
+    },
+    "websiteDocumentation": {
+      "data": "yes",
+      "label": "documentation website",
+      "url": "https://design.gitlab.com"
+    },
+    "codeDocumentation": {
+      "data": "yes",
+      "label": "code documentation",
+      "url": "https://gitlab.com/gitlab-org/gitlab-ui/-/blob/main/CONTRIBUTING.md"
+    },
+    "storybook": {
+      "data": "yes",
+      "label": "storybook",
+      "url": "https://gitlab-org.gitlab.io/gitlab-ui/"
+    },
+    "distribution": {
+      "data": "npm",
+      "label": "distribution"
+    }
+  }
